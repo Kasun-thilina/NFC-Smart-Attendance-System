@@ -1,0 +1,4 @@
+#Thu Aug 30 13:05:42 IST 2018
+base.0=E\:\\NIBM\\HD\\3rd_Semester\\Android\\NIBM Smart Attendance System\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

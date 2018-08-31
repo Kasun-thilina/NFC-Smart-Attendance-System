@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\b106888e99cfea929938db50272cbad6\AndroidManifest.xml:2:1-11:12
+MERGED from [de.codecrafters.tableview:tableview:2.8.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\tableview-2.8.0.aar\20fdcf3e174ff5b892dc785a8727cff3\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a7543d00808bba9477f6078f53f78b6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\dc63baaf71896064f1a8819f7a7d7eff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\cd19da5e5c29bd3018702661d85eb634\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\946e7e1f7b4115738665992ddc9f8eb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3581fb42acb091336d3fe1e523224bb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b87d4699b378be0712606cbc80b6bd1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0cacd7c693615ea980520d8b920ce9d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\baae8ebd49903497d83e536887f2f54c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9b2f609caac50168ff48ad78ce4dba55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\884c0a92ed47fd41f6f53d888fb821fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3027bedc4d77f7e30c7e627b89ede89c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\67ca6818cab0b70b051a9f27e47d6d39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4403ebab990db7c5d832c53a980c76c4\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\328dcebe2056ed718fb678022ea60651\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4dd1ee46e9e5d4246c9065e37e3edaad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7284221461da7dc5b1f50d170f2b741d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6940c765dc9a6c5547ef79aee73f3fed\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+		INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.NFC
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:6:5-62
+	android:name
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:6:22-59
+supports-screens
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:8:5-13:40
+	android:largeScreens
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:10:9-36
+	android:smallScreens
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:11:9-37
+	android:xlargeScreens
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:13:9-37
+	android:anyDensity
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:9:9-34
+application
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:15:5-41:19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\b106888e99cfea929938db50272cbad6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\b106888e99cfea929938db50272cbad6\AndroidManifest.xml:9:5-20
+MERGED from [de.codecrafters.tableview:tableview:2.8.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\tableview-2.8.0.aar\20fdcf3e174ff5b892dc785a8727cff3\AndroidManifest.xml:11:5-53
+MERGED from [de.codecrafters.tableview:tableview:2.8.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\tableview-2.8.0.aar\20fdcf3e174ff5b892dc785a8727cff3\AndroidManifest.xml:11:5-53
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4403ebab990db7c5d832c53a980c76c4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4403ebab990db7c5d832c53a980c76c4\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:16:9-34
+activity#com.kasuncreations.loginmgmt.MainActivity
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:23:9-32:20
+	android:theme
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:25:13-47
+	android:name
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.kasuncreations.loginmgmt.RegisterActivity
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:33:9-34:38
+	android:exported
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:33:19-51
+activity#com.kasuncreations.loginmgmt.UserAreaActivity
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:35:9-54
+	android:name
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:35:19-51
+activity#com.kasuncreations.loginmgmt.MainNFCActivity
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:36:9-53
+	android:name
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:36:19-50
+activity#com.kasuncreations.loginmgmt.AdminNFCActivity
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:37:9-54
+	android:name
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:37:19-51
+activity#com.kasuncreations.loginmgmt.AdminUserArea
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:38:9-51
+	android:name
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:38:19-48
+activity#com.kasuncreations.loginmgmt.ViewTimetableActivity
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:39:9-59
+	android:name
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:39:19-56
+activity#com.kasuncreations.loginmgmt.AdminArea
+ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:40:9-56
+	android:name
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml:40:19-44
+uses-sdk
+INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\b106888e99cfea929938db50272cbad6\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\b106888e99cfea929938db50272cbad6\AndroidManifest.xml:7:5-43
+MERGED from [de.codecrafters.tableview:tableview:2.8.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\tableview-2.8.0.aar\20fdcf3e174ff5b892dc785a8727cff3\AndroidManifest.xml:7:5-9:41
+MERGED from [de.codecrafters.tableview:tableview:2.8.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\tableview-2.8.0.aar\20fdcf3e174ff5b892dc785a8727cff3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a7543d00808bba9477f6078f53f78b6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a7543d00808bba9477f6078f53f78b6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\dc63baaf71896064f1a8819f7a7d7eff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\dc63baaf71896064f1a8819f7a7d7eff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\cd19da5e5c29bd3018702661d85eb634\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\cd19da5e5c29bd3018702661d85eb634\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\946e7e1f7b4115738665992ddc9f8eb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\946e7e1f7b4115738665992ddc9f8eb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3581fb42acb091336d3fe1e523224bb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3581fb42acb091336d3fe1e523224bb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b87d4699b378be0712606cbc80b6bd1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b87d4699b378be0712606cbc80b6bd1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0cacd7c693615ea980520d8b920ce9d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0cacd7c693615ea980520d8b920ce9d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\baae8ebd49903497d83e536887f2f54c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\baae8ebd49903497d83e536887f2f54c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9b2f609caac50168ff48ad78ce4dba55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9b2f609caac50168ff48ad78ce4dba55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\884c0a92ed47fd41f6f53d888fb821fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\884c0a92ed47fd41f6f53d888fb821fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3027bedc4d77f7e30c7e627b89ede89c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3027bedc4d77f7e30c7e627b89ede89c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\67ca6818cab0b70b051a9f27e47d6d39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\67ca6818cab0b70b051a9f27e47d6d39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4403ebab990db7c5d832c53a980c76c4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4403ebab990db7c5d832c53a980c76c4\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\328dcebe2056ed718fb678022ea60651\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\328dcebe2056ed718fb678022ea60651\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4dd1ee46e9e5d4246c9065e37e3edaad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4dd1ee46e9e5d4246c9065e37e3edaad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7284221461da7dc5b1f50d170f2b741d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7284221461da7dc5b1f50d170f2b741d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6940c765dc9a6c5547ef79aee73f3fed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kasun Thilina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6940c765dc9a6c5547ef79aee73f3fed\AndroidManifest.xml:20:5-44
+INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+		INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+		ADDED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
+		INJECTED from E:\NIBM\HD\3rd_Semester\Android\NIBM Smart Attendance System\app\src\main\AndroidManifest.xml
